@@ -2,8 +2,8 @@ rss: "/feed.xml"
 rss-description: A nice rss feed for you rss fiends.
 
 # theme stuff
-theme: jekyll-theme-persephone
-
+# theme: jekyll-theme-persephone
+remote_theme: erlzhang/jekyll-theme-persephone
 
 # The followings are settings for displays of your blog.
 theme_setting:
